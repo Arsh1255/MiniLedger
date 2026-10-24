@@ -14,15 +14,13 @@ MiniLedger is a small mobile app for keeping track of money lent to friends. It 
 
 ## Screenshots
 
-Add screenshots to `docs/screenshots/` and replace these placeholders when they are available.
-
 | Sign in | Loan list |
 | --- | --- |
-| `docs/screenshots/login.png` | `docs/screenshots/home.png` |
+| ![Sign in screen](docs/screenshots/login.png) | ![Loan list](docs/screenshots/home.png) |
 
 | Add a loan | Receipt preview |
 | --- | --- |
-| `docs/screenshots/add-loan.png` | `docs/screenshots/receipt.png` |
+| ![Add a loan](docs/screenshots/add-loan.png) | ![Receipt preview](docs/screenshots/receipt.png) |
 
 ## Stack
 
